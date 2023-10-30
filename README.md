@@ -18,4 +18,4 @@ A simple and functional pylint badge generator. Better to use [anybadge](https:/
 ## Idea
 Inspired by mperlet's [pybadge](https://github.com/mperlet/pybadge), which was in turn inspired by [this blogpost](http://www.desmondrivet.com/blog/technical/pylint-badges.html.)
 
-![pylint Score](https://mperlet.github.io/pybadge/badges/1.50.svg
+![pylint Score](https://mperlet.github.io/pybadge/badges/1.50.svg)
